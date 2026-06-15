@@ -47,5 +47,6 @@ Para explorar los algoritmos y visualizar los resultados:
 2. Ejecuta Jupyter Notebook (`jupyter notebook` o `jupyter lab`).
 3. Abre el archivo `TareaAG.ipynb` y ejecuta sus celdas.
 
-## Notas Adicionales
-*La Actividad 4 (Seminario de Investigación) está pendiente hasta contar con el artículo científico a revisar.*
+### Actividad 4: Seminario de Investigación
+- **Problema:** Optimización de la ubicación de pozos de desarrollo en yacimientos de depositación fluvial.
+- **Enfoque:** Análisis del artículo "Aplicación de algoritmos genéticos como herramienta de optimización en la ubicación de pozos de desarrollo...". Se creó el notebook `Seminario_Actividad4.ipynb` que resume el artículo, explica el uso del Algoritmo Genético como integrador con la simulación geoestadística (BLIND TEST) y expone un análisis crítico de las ventajas y limitaciones de la metodología empleada.
